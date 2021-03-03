@@ -3,6 +3,10 @@
   src: url('../res/HYWenHei-85W.ttf')  format('truetype');
 }
 
+:root {
+  --speed: 0.1;
+}
+
 body {
   font-family: 'HYWenHei', Fallback, sans-serif;
   margin: 0;
@@ -25,7 +29,7 @@ body {
   white-space: nowrap;
   will-change: transform;
   font-size: 30vh;
-  animation: marquee 40s linear infinite;
+  animation: marquee calc(40s / var(--speed)) linear infinite;
 }
 
 .trackB {
@@ -34,7 +38,7 @@ body {
   white-space: nowrap;
   will-change: transform;
   font-size: 13vh;
-  animation: marquee 5s linear infinite;
+  animation: marquee calc(5s / var(--speed)) linear infinite;
 }
 
 .trackC {
@@ -43,7 +47,7 @@ body {
   white-space: nowrap;
   will-change: transform;
   font-size: 30vh;
-  animation: marquee 55s linear infinite;
+  animation: marquee calc(55s / var(--speed)) linear infinite;
 }
 
 .trackD {
@@ -52,7 +56,7 @@ body {
   white-space: nowrap;
   will-change: transform;
   font-size: 13vh;
-  animation: marquee 8s linear infinite;
+  animation: marquee calc(8s / var(--speed)) linear infinite;
 }
 
 .ghostA {
