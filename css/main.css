@@ -22,51 +22,45 @@ body {
   overflow-x: hidden;
 }
 
-.trackA {
+.track {
   position: absolute;
-  top: 0vh;
   white-space: nowrap;
   will-change: transform;
+}
+
+#trackA {
+  top: 0vh;
   animation: marquee var(--trackA_speed) linear infinite;
 }
 
-.trackA img {
+#trackA img {
   height: calc(774vh/2160*100);
 }
 
-.trackB {
-  position: absolute;
+#trackB {
   top: calc(754vh/2160*100);
-  white-space: nowrap;
-  will-change: transform;
   animation: marquee var(--trackB_speed) linear infinite;
 }
 
-.trackB img {
+#trackB img {
   height: calc(351vh/2160*100);
 }
 
-.trackC {
-  position: absolute;
+#trackC {
   top: calc(1016vh/2160*100);
-  white-space: nowrap;
-  will-change: transform;
   animation: marquee var(--trackC_speed) linear infinite;
 }
 
-.trackC img {
+#trackC img {
   height: calc(774vh/2160*100);
 }
 
-.trackD {
-  position: absolute;
+#trackD {
   top: calc(1790vh/2160*100);
-  white-space: nowrap;
-  will-change: transform;
   animation: marquee var(--trackD_speed) linear infinite;
 }
 
-.trackD img {
+#trackD img {
   height: calc(342vh/2160*100);
 }
 
