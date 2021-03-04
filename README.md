@@ -5,6 +5,10 @@ The text was rendered at 4k to avoid redistributing the ttf.
 
 All trademarks are property of their respective owners
 
+## Installation
+This background is compatible with Wallpaper Engine. Simply subscribe to the workshop content in the following link
+https://steamcommunity.com/sharedfiles/filedetails/?id=2414434000
+
 ## Font
 It appears that the font (HYWenHei-85W.ttf) that miHoYo uses is licensed by [HanYi Fonts](http://www.hanyi.com.cn/index.php).
 
