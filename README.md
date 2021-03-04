@@ -3,6 +3,8 @@ Website based background inspired by the scrolling text seen at [0:46 in the Cha
 Her ghost companion was extracted from the video and edited in [GIMP](https://www.gimp.org/) to increase sharpness.
 The text was rendered at 4k to avoid redistributing the ttf.
 
+![Preview](https://github.com/XDleader555/hu_tao_scrolling_background/raw/master/images/preview_360p.gif)
+
 All trademarks are property of their respective owners
 
 ## Installation
