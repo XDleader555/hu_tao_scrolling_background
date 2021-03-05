@@ -5,7 +5,7 @@ The text was rendered at 4k to avoid redistributing the ttf.
 
 If the gif below doesn't do you justice, you can access a live [github pages here](https://xdleader555.github.io/hu_tao_scrolling_background/index.html).
 
-![Preview](https://github.com/XDleader555/hu_tao_scrolling_background/raw/master/images/preview_360p.gif)
+[![Preview](https://github.com/XDleader555/hu_tao_scrolling_background/raw/master/images/preview_360p.gif)](https://xdleader555.github.io/hu_tao_scrolling_background/index.html)
 
 All trademarks are property of their respective owners
 
